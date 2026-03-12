@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DharshanS31082004/student-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DharshanS31082004/student-api/issues"
+  },
+  "homepage": "https://github.com/DharshanS31082004/student-api#readme"
 }
